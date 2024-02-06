@@ -1,0 +1,643 @@
+{
+    "startTime": "2024-02-05T14:22:44.199175",
+    "stopTime": "2024-02-05T14:25:45.573957",
+    "coordinates": [
+        {
+            "timeStamp": "132242.00",
+            "lat": "6325.0911207",
+            "latDirection": "N",
+            "long": "01024.1651319",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132244.00",
+            "lat": "6325.0914731",
+            "latDirection": "N",
+            "long": "01024.1657751",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132246.00",
+            "lat": "6325.0911833",
+            "latDirection": "N",
+            "long": "01024.1668304",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132248.00",
+            "lat": "6325.0914405",
+            "latDirection": "N",
+            "long": "01024.1693377",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132250.00",
+            "lat": "6325.0921446",
+            "latDirection": "N",
+            "long": "01024.1724813",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132252.00",
+            "lat": "6325.0927999",
+            "latDirection": "N",
+            "long": "01024.1751947",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132254.00",
+            "lat": "6325.0930978",
+            "latDirection": "N",
+            "long": "01024.1774018",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132256.00",
+            "lat": "6325.0936713",
+            "latDirection": "N",
+            "long": "01024.1794218",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132258.00",
+            "lat": "6325.0943777",
+            "latDirection": "N",
+            "long": "01024.1819544",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132300.00",
+            "lat": "6325.0948623",
+            "latDirection": "N",
+            "long": "01024.1845016",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132302.00",
+            "lat": "6325.0952884",
+            "latDirection": "N",
+            "long": "01024.1867252",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132304.00",
+            "lat": "6325.0956123",
+            "latDirection": "N",
+            "long": "01024.1897390",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132306.00",
+            "lat": "6325.0960222",
+            "latDirection": "N",
+            "long": "01024.1926596",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132308.00",
+            "lat": "6325.0963808",
+            "latDirection": "N",
+            "long": "01024.1958093",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132310.00",
+            "lat": "6325.0968062",
+            "latDirection": "N",
+            "long": "01024.1983720",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132312.00",
+            "lat": "6325.0978306",
+            "latDirection": "N",
+            "long": "01024.2016535",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132314.00",
+            "lat": "6325.0988486",
+            "latDirection": "N",
+            "long": "01024.2049742",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132316.00",
+            "lat": "6325.0994533",
+            "latDirection": "N",
+            "long": "01024.2075883",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132318.00",
+            "lat": "6325.0998892",
+            "latDirection": "N",
+            "long": "01024.2098644",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132320.00",
+            "lat": "6325.1005100",
+            "latDirection": "N",
+            "long": "01024.2119293",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132322.00",
+            "lat": "6325.1010410",
+            "latDirection": "N",
+            "long": "01024.2138979",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132324.00",
+            "lat": "6325.1019432",
+            "latDirection": "N",
+            "long": "01024.2146141",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132326.00",
+            "lat": "6325.1029540",
+            "latDirection": "N",
+            "long": "01024.2142589",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132328.00",
+            "lat": "6325.1038994",
+            "latDirection": "N",
+            "long": "01024.2136871",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132330.00",
+            "lat": "6325.1049231",
+            "latDirection": "N",
+            "long": "01024.2132560",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132332.00",
+            "lat": "6325.1058301",
+            "latDirection": "N",
+            "long": "01024.2125785",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132334.00",
+            "lat": "6325.1072971",
+            "latDirection": "N",
+            "long": "01024.2115148",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132336.00",
+            "lat": "6325.1083077",
+            "latDirection": "N",
+            "long": "01024.2100448",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132338.00",
+            "lat": "6325.1098869",
+            "latDirection": "N",
+            "long": "01024.2085740",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132340.00",
+            "lat": "6325.1107410",
+            "latDirection": "N",
+            "long": "01024.2072865",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132342.00",
+            "lat": "6325.1118372",
+            "latDirection": "N",
+            "long": "01024.2065735",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132344.00",
+            "lat": "6325.1121013",
+            "latDirection": "N",
+            "long": "01024.2052754",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132346.00",
+            "lat": "6325.1130849",
+            "latDirection": "N",
+            "long": "01024.2043975",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132348.00",
+            "lat": "6325.1140710",
+            "latDirection": "N",
+            "long": "01024.2028012",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132350.00",
+            "lat": "6325.1155499",
+            "latDirection": "N",
+            "long": "01024.1984776",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132352.00",
+            "lat": "6325.1167535",
+            "latDirection": "N",
+            "long": "01024.1972171",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132354.00",
+            "lat": "6325.1181540",
+            "latDirection": "N",
+            "long": "01024.1961413",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132356.00",
+            "lat": "6325.1198365",
+            "latDirection": "N",
+            "long": "01024.1951979",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132358.00",
+            "lat": "6325.1214299",
+            "latDirection": "N",
+            "long": "01024.1935655",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132400.00",
+            "lat": "6325.1228296",
+            "latDirection": "N",
+            "long": "01024.1919089",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132402.00",
+            "lat": "6325.1242629",
+            "latDirection": "N",
+            "long": "01024.1905356",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132404.00",
+            "lat": "6325.1256738",
+            "latDirection": "N",
+            "long": "01024.1890709",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132406.00",
+            "lat": "6325.1271291",
+            "latDirection": "N",
+            "long": "01024.1877548",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132408.00",
+            "lat": "6325.1285848",
+            "latDirection": "N",
+            "long": "01024.1865473",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132410.00",
+            "lat": "6325.1299727",
+            "latDirection": "N",
+            "long": "01024.1851755",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132412.00",
+            "lat": "6325.1314496",
+            "latDirection": "N",
+            "long": "01024.1837336",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132414.00",
+            "lat": "6325.1330014",
+            "latDirection": "N",
+            "long": "01024.1823090",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132416.00",
+            "lat": "6325.1345376",
+            "latDirection": "N",
+            "long": "01024.1807187",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132418.00",
+            "lat": "6325.1357217",
+            "latDirection": "N",
+            "long": "01024.1785800",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132420.00",
+            "lat": "6325.1360619",
+            "latDirection": "N",
+            "long": "01024.1756278",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132422.00",
+            "lat": "6325.1358321",
+            "latDirection": "N",
+            "long": "01024.1724486",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132424.00",
+            "lat": "6325.1353065",
+            "latDirection": "N",
+            "long": "01024.1693785",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132426.00",
+            "lat": "6325.1348368",
+            "latDirection": "N",
+            "long": "01024.1664768",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132428.00",
+            "lat": "6325.1342725",
+            "latDirection": "N",
+            "long": "01024.1636008",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132430.00",
+            "lat": "6325.1336839",
+            "latDirection": "N",
+            "long": "01024.1605920",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132432.00",
+            "lat": "6325.1334908",
+            "latDirection": "N",
+            "long": "01024.1575206",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132434.00",
+            "lat": "6325.1328497",
+            "latDirection": "N",
+            "long": "01024.1545882",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132436.00",
+            "lat": "6325.1322711",
+            "latDirection": "N",
+            "long": "01024.1516927",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132438.00",
+            "lat": "6325.1316860",
+            "latDirection": "N",
+            "long": "01024.1488061",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132440.00",
+            "lat": "6325.1308760",
+            "latDirection": "N",
+            "long": "01024.1459056",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132442.00",
+            "lat": "6325.1303755",
+            "latDirection": "N",
+            "long": "01024.1427113",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132444.00",
+            "lat": "6325.1296701",
+            "latDirection": "N",
+            "long": "01024.1397593",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132446.00",
+            "lat": "6325.1289013",
+            "latDirection": "N",
+            "long": "01024.1368934",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132448.00",
+            "lat": "6325.1279372",
+            "latDirection": "N",
+            "long": "01024.1343895",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132450.00",
+            "lat": "6325.1269641",
+            "latDirection": "N",
+            "long": "01024.1322865",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132452.00",
+            "lat": "6325.1257897",
+            "latDirection": "N",
+            "long": "01024.1314519",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132454.00",
+            "lat": "6325.1243659",
+            "latDirection": "N",
+            "long": "01024.1318490",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132456.00",
+            "lat": "6325.1231283",
+            "latDirection": "N",
+            "long": "01024.1327992",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132458.00",
+            "lat": "6325.1218855",
+            "latDirection": "N",
+            "long": "01024.1337866",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132500.00",
+            "lat": "6325.1205919",
+            "latDirection": "N",
+            "long": "01024.1349625",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132502.00",
+            "lat": "6325.1192659",
+            "latDirection": "N",
+            "long": "01024.1362130",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132504.00",
+            "lat": "6325.1179803",
+            "latDirection": "N",
+            "long": "01024.1376994",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132506.00",
+            "lat": "6325.1166252",
+            "latDirection": "N",
+            "long": "01024.1390194",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132508.00",
+            "lat": "6325.1153413",
+            "latDirection": "N",
+            "long": "01024.1404412",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132510.00",
+            "lat": "6325.1139587",
+            "latDirection": "N",
+            "long": "01024.1415591",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132512.00",
+            "lat": "6325.1126714",
+            "latDirection": "N",
+            "long": "01024.1425496",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132514.00",
+            "lat": "6325.1114991",
+            "latDirection": "N",
+            "long": "01024.1438804",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132516.00",
+            "lat": "6325.1101730",
+            "latDirection": "N",
+            "long": "01024.1451656",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132518.00",
+            "lat": "6325.1088570",
+            "latDirection": "N",
+            "long": "01024.1468415",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132520.00",
+            "lat": "6325.1075471",
+            "latDirection": "N",
+            "long": "01024.1481254",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132522.00",
+            "lat": "6325.1064143",
+            "latDirection": "N",
+            "long": "01024.1497606",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132524.00",
+            "lat": "6325.1049943",
+            "latDirection": "N",
+            "long": "01024.1513878",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132526.00",
+            "lat": "6325.1036928",
+            "latDirection": "N",
+            "long": "01024.1525554",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132528.00",
+            "lat": "6325.1025021",
+            "latDirection": "N",
+            "long": "01024.1537156",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132530.00",
+            "lat": "6325.1012717",
+            "latDirection": "N",
+            "long": "01024.1551464",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132532.00",
+            "lat": "6325.0998080",
+            "latDirection": "N",
+            "long": "01024.1564335",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132534.00",
+            "lat": "6325.0984123",
+            "latDirection": "N",
+            "long": "01024.1576370",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132536.00",
+            "lat": "6325.0970609",
+            "latDirection": "N",
+            "long": "01024.1589991",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132538.00",
+            "lat": "6325.0957648",
+            "latDirection": "N",
+            "long": "01024.1603656",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132540.00",
+            "lat": "6325.0944651",
+            "latDirection": "N",
+            "long": "01024.1620726",
+            "longDirection": "E"
+        },
+        {
+            "timeStamp": "132542.00",
+            "lat": "6325.0931203",
+            "latDirection": "N",
+            "long": "01024.1633372",
+            "longDirection": "E"
+        }
+    ]
+}
